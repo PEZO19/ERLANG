@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ERLANG.iml" filepath="$PROJECT_DIR$/ERLANG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak/gyak.iml" filepath="$PROJECT_DIR$/gyak/gyak.iml" />
     </modules>
   </component>
 </project>
