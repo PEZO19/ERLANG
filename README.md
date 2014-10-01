@@ -1,3 +1,3 @@
 ERLANG
 ======
-idea commit
+idea commi
